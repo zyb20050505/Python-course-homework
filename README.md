@@ -13,6 +13,7 @@ For each lesson, there will be a folder containing the homework.
 2. [2](2)
 3. [3](3)
 4. [4](4)
+5. [5](5)
 
 And I made a [OCR tool](OCR.py) for recognizing characters from [images](imgs) to terminal output.
 
